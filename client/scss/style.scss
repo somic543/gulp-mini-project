@@ -1,0 +1,29 @@
+.box {
+    width: 10px;
+    height: 10px;
+    background: #000;
+    &:hover {
+        background: red;
+    }
+    &:active {
+        background: green;
+    }
+}
+
+.navigation {
+    font-size: 10px;
+    li {
+        list-style: none;
+       
+        a {
+            text-decoration: none;
+            color: blue;
+            &:hover {
+                color: lighten(blue, 20%);
+            }
+            &:active {
+                font-size: 100px;
+            }
+        }
+    }
+} 

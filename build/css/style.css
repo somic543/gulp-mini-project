@@ -1,0 +1,1 @@
+.box{width:10px;height:10px;background:#000}.box:hover{background:red}.box:active{background:green}.navigation{font-size:10px}.navigation li{list-style:none}.navigation li a{text-decoration:none;color:blue}.navigation li a:hover{color:#66f}.navigation li a:active{font-size:100px}
