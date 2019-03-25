@@ -1,8 +1,8 @@
 # gulp-mini-project
-Convert and minify scss, javascript file.
+Convert and minify scss, javascript file.<br />
 
-Scripts:
-`npm scss` : Convert scss to css.
-`npm js` : Convert and minify js.
-`npm build` : Convert all.
+Scripts:<br />
+`npm scss` : Convert scss to css.<br />
+`npm js` : Convert and minify js.<br />
+`npm build` : Convert all.<br />
 `npm watch` : Watch for changes and running a task when a change occurs.
