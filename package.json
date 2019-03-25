@@ -19,9 +19,17 @@
     "scss": "gulp scss",
     "js": "gulp js",
     "build": "gulp build",
-    "watch": "gulp watcher" 
+    "watch": "gulp watcher"
   },
   "author": "",
   "license": "MIT",
-  "description": "Project for training"
+  "description": "Project for training",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/somic543/gulp-mini-project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/somic543/gulp-mini-project/issues"
+  },
+  "homepage": "https://github.com/somic543/gulp-mini-project#readme"
 }
